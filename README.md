@@ -4,6 +4,10 @@
 - 🔭 I graduated from **Texas A&M University**
 - ⚡ Feel free to check out the personal projects in my [portfolio](https://github.com/c-bohanon/data-portfolio) 
 - 📫 You can reach me at christopherjbohanon@gmail.com
+- 👀 Besides data, I'm also interested in
+  - Tech 🖥
+  - Finance & DeFi 📈
+  - Fitness 💪
 
 ### Languages and Tools
 
