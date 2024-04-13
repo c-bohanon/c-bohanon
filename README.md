@@ -3,7 +3,7 @@
 - 🌱 I want to learn more about **Data Analysis** and **Data Science** everyday
 - 🔭 I graduated from **Texas A&M University**
 - ⚡ Feel free to check out the personal projects in my [portfolio](https://github.com/c-bohanon/data-portfolio) 
-- 📫 You can reach me at **christopherjbohanon@gmail.com** 
+- 📫 You can reach me at christopherjbohanon@gmail.com
 
 ### Languages and Tools
 
